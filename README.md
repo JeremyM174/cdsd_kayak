@@ -14,8 +14,9 @@ Bienvenue dans mon repo dédié au projet Kayak, pour la certification CDSD Jedh
 Ce bref projet est consacré à la construction & alimentation d'une infrastructure data. Vous trouverez ici:
 
 * Le notebook .ipynb incluant les visualisations,
-* 
-* 
+* Le dossier `data` incluant les différents .json & .csv pour stocker les données,
+* Le dossier `src` incluant les scripts pour notre collecte de données,
+* Un guide d'instructions `.env_example.md` si besoin pour la création des variables confidentielles d'environnement,
 * L'environnement .yaml vous permettant d'exécuter le .ipynb correctement.
 
 Bonne exploration! :feet:
@@ -34,8 +35,9 @@ Welcome to my repository dedicated to the Kayak project, for Jedha's certificati
 This short project is dedicated to building & managing a data infrastructure. You may find here:
 
 * The .ipynb notebook including the visualizations,
-* 
-* 
+* The `data` folder including the .json & .csv files to store our data,
+* The `src` folder including the scripts for data collection,
+* An instructions file `.env_example.md` if needed to create your confidential environment variables,
 * The .yaml environment to properly run the .ipynb notebook.
 
 Have fun exploring! :feet:
