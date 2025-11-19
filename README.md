@@ -5,7 +5,7 @@
 # <p align="center">Certification CDSD - bloc 1 infrastructure data: construction & alimentation :fr:</p>
 
 ### <p align="center">Jedha: projet Kayak</p>
-![](/logos/Logo_Jedha.jpg) ![](/logos/Logo_Booking.jpg)
+<p align="center">![](/logos/Logo_Jedha.jpg) ![](/logos/Logo_Booking.jpg)</p>
 
 *Tous droits intellectuels applicables appartiennent à leurs propriétaires respectifs. Le contenu ici présent est exclusivement mis à disposition dans le cadre du diplôme d'état RNCP35288 ou pour candidature à un emploi.*
 
@@ -28,7 +28,7 @@ Bonne exploration! :feet:
 # <p align="center">:uk: Jedha: Kayak project</p>
 
 ### <p align="center">Build & manage a data infrastructure</p>
-![](/logos/Logo_Jedha.jpg) ![](/logos/Logo_Booking.jpg)
+<p align ="center">![](/logos/Logo_Jedha.jpg) ![](/logos/Logo_Booking.jpg)</p>
 
 *All applicable intellectual property rights belong to their rightful owners. The content herein displayed is exclusively provided for the sake of the French professional certification RNCP35288 or for job applications.*
 
