@@ -19,6 +19,9 @@ Ce bref projet est consacré à la construction & alimentation d'une infrastruct
 * Un guide d'instructions `.env_example.md` si besoin pour la création des variables confidentielles d'environnement,
 * L'environnement .yaml vous permettant d'exécuter le .ipynb correctement.
 
+> [!WARNING]
+> Ce projet implique l'usage d'outils en ligne sur le modèle économique du *freemium*, par conséquent il vous faudra créer vos propres comptes sur les services impliqués. Suivez attentivement les instructions du notebook et du guide sur les variables confidentielles au besoin!
+
 Bonne exploration! :feet:
 
 
@@ -41,5 +44,8 @@ This short project is dedicated to building & managing a data infrastructure. Yo
 * The `src` folder including the scripts for data collection,
 * An instructions file `.env_example.md` if needed to create your confidential environment variables,
 * The .yaml environment to properly run the .ipynb notebook.
+
+> [!WARNING]
+> This project involves online tools on a *freemium* economical model, hence the need for the user to create their own accounts on the related services. Make sure to follow the instructions given in the notebook as well as the environment template file, should you need it!
 
 Have fun exploring! :feet:
