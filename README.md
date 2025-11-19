@@ -25,7 +25,9 @@ Bonne exploration! :feet:
 ---
 
 
-### <p align="center">:uk: Jedha: Kayak project</p>
+# <p align="center">:uk: Jedha: Kayak project</p>
+
+### <p align="center">Build & manage a data infrastructure</p>
 ![](/logos/Logo_Jedha.jpg) ![](/logos/Logo_Booking.jpg)
 
 *All applicable intellectual property rights belong to their rightful owners. The content herein displayed is exclusively provided for the sake of the French professional certification RNCP35288 or for job applications.*
